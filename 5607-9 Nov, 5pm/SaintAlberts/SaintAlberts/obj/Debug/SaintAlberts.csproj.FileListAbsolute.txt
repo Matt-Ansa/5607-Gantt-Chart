@@ -1,0 +1,20 @@
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.AdmissionCloseForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.DataController.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.MainForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.MedicationAddForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.MedicationDeleteForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.MedicationUpdateForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.Properties.Resources.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.WardAddForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.WardDeleteForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.WardsReportForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.WardUpdateForm.resources
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\bin\Debug\Saint Alberts.accdb
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.exe
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\obj\Debug\SaintAlberts.pdb
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\bin\Debug\SaintAlberts.exe.config
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\bin\Debug\SaintAlberts.exe
+C:\Users\Matt\Desktop\5607\SaintAlberts\SaintAlberts\bin\Debug\SaintAlberts.pdb
